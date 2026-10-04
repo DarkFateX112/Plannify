@@ -1,0 +1,2 @@
+# Plannify
+Personal Project
