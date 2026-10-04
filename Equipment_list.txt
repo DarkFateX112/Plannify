@@ -1,0 +1,47 @@
+Dumbbell
+Skipping rope
+Resistance Band
+Kettlebell
+Treadmill
+Bench Press
+Pull-up Bar
+Medicine Ball
+Rowing Machine
+Exercise Bike
+Yoga Mat
+Weighted Vest
+Ab Roller
+Battle Rope
+Foam Roller
+Punching Bag
+Stepper
+Power Rack
+Glute Bands
+Barbell
+Weight Plates
+Cable Machine
+Leg Press
+Lat Pulldown Machine
+Chest Fly Machine
+Shoulder Press
+Leg Curl Machine
+Leg Extension Machine
+Hack Squat Machine
+Preacher Curl Bench
+Triceps Pushdown
+Leg Abductor
+Hyperextension Bench
+Dip Station
+Box Jump Platform
+Exercise Ball
+BOSU Ball
+Sandbags
+Slamballs
+TRX Suspension Trainer
+Plyo Box
+Agility Ladder
+Cone Markers
+Jump Rope
+Heart Rate Monitor
+Fitness Tracker
+None
